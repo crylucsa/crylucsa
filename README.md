@@ -1,6 +1,5 @@
 <img style="margin-top: 40px;" align="right" width="400px" src="https://64.media.tumblr.com/4a2a59f65557f4fb8384e8cc7a16db38/tumblr_inline_opnbfh2xO71s7omn3_500.gif">
 
-
 ### Me chamo Lucas, tenho 16 anos e moro em Jundiaí - SP.
 - 💻 Estudo Desenvolvimento de Sistemas
 - 🎯 Em constante aprendizado
