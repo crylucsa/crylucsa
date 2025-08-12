@@ -14,4 +14,4 @@
 
 ## GitHub Stats
 [crylucsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=crylucsa&show_icons=true&theme=dark&count_private=true)
-[crylucsa's Github stats](https://github-readme-stats.vercel.app/api?username=crylucsa&show_icons=true&theme=dark&count_private=true)
+
