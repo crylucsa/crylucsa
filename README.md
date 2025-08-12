@@ -7,8 +7,13 @@
 - 😄 Venha me conhecer mais um pouco.
 - ## Ferramentas que uso <img src="https://media.giphy.com/media/TvI2RkztssUmwkLYse/giphy.gif" width="35px">
 
-![VS Code](https://camo.githubusercontent.com/c0e11ed19d8be3b7419bd5d3b247e04cc29dcf2475a9f4b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5649535f434f44452d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465)
 
-![Git](https://camo.githubusercontent.com/9b7d6c331b3e1a90eea0e37c7cf05a52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Python](https://camo.githubusercontent.com/4a3e3bb12dc9ac26b95b02fd8b4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
+## GitHub Stats
+![crylucsa' GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&count_private=true)
