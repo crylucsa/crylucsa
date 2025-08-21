@@ -4,7 +4,7 @@
 - 💻 Estudo Desenvolvimento de Sistemas
 - 🎯 Em constante aprendizado
 - 😄 Venha me conhecer mais um pouco.
-- ## Ferramentas que uso <img src="https://media.giphy.com/media/TvI2RkztssUmwkLYse/giphy.gif" width="35px">
+- ## Ferramentas que uso <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBwaWplNmhlcjVlbWdsZ25weW40MWJkMG14NnhmZ3hxZDhocWx4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xdReWJYLmn715jzl8Q/giphy.gif" width="35px">
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
